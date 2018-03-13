@@ -1,0 +1,101 @@
+アップルパイ/apple_pie
+バックリブ/baby_back_ribs
+/baklava
+ビーフ カルパッチョ/beef_carpaccio
+ビーフ タルタル/beef_tartare
+ビート サラダ/beet_salad
+/beignets
+ビビンバ/bibimbap
+ブレッド プディング/bread_pudding
+ブリトー/breakfast_burrito
+ブルスケッタ/bruschetta
+シーザーサラダ/caesar_salad
+/cannoli
+カプレーゼ サラダ/caprese_salad
+キャロット ケーキ/carrot_cake
+/ceviche
+チーズケーキ/cheesecake
+チーズ プレート/cheese_plate
+チキン カレー/chicken_curry
+/chicken_quesadilla
+手羽先/chicken_wings
+チョコレートケーキ/chocolate_cake
+チョコレートムース/chocolate_mousse
+チュロス/churros
+クラムチャウダー/clam_chowder
+サンドイッチ/club_sandwich
+クラブケーキ/crab_cakes
+クレームブリュレ/creme_brulee
+クロックマダム/croque_madame
+カップケーキ/cup_cakes
+ゆでたまご/deviled_eggs
+ドーナツ/donuts
+肉まん シュウマイ/dumplings
+えだまめ/edamame
+たまご イングリッシュマフィン/eggs_benedict
+エスカルゴ/escargots
+ファラフェル/falafel
+牛 ひれ/filet_mignon
+フィッシュ チップス/fish_and_chips
+フォアグラ/foie_gras
+フライドポテト/french_fries
+オニオン スープ/french_onion_soup
+フレンチトースト/french_toast
+イカ フライ/fried_calamari
+チャーハン/fried_rice
+フローズンヨーグルト/frozen_yogurt
+ガーリック トースト/garlic_bread
+ニョッキ/gnocchi
+ギリシャ サラダ/greek_salad
+チーズ サンドイッチ/grilled_cheese_sandwich
+焼き鮭/grilled_salmon
+ワカモレ/guacamole
+餃子/gyoza
+ハンバーガー/hamburger
+中華 スープ/hot_and_sour_soup
+ホットドッグ/hot_dog
+/huevos_rancheros
+フムス/hummus
+アイスクリーム/ice_cream
+ラザニア/lasagna
+ロブスター スープ/lobster_bisque
+ロブスター ドック/lobster_roll_sandwich
+マカロニ チーズ/macaroni_and_cheese
+マカロン/macarons
+味噌汁/miso_soup
+ムール貝/mussels
+ナチョス/nachos
+オムレツ/omelette
+オニオンリング/onion_rings
+牡蠣/oysters
+パッタイ/pad_thai
+パエリヤ/paella
+パンケーキ/pancakes
+パンナコッタ/panna_cotta
+北京ダック/peking_duck
+フォー/pho
+ピザ/pizza
+ポークチョップ/pork_chop
+フライドポテト チーズ ソース/poutine
+リブ/prime_rib
+ポーク バーガー/pulled_pork_sandwich
+ラーメン/ramen
+ラビオリ/ravioli
+/red_velvet_cake
+/risotto
+/samosa
+/sashimi
+/scallops
+/seaweed_salad
+/shrimp_and_grits
+/spaghetti_bolognese
+/spaghetti_carbonara
+はるまき/spring_rolls
+ステーキ/steak
+ストロベリー ケーキ/strawberry_shortcake
+寿司/sushi
+タコス/tacos
+たこ焼き/takoyaki
+ティラミス/tiramisu
+/tuna_tartare
+ワッフル/waffles
