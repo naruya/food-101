@@ -1,23 +1,23 @@
 アップルパイ/apple_pie
 バックリブ/baby_back_ribs
-/baklava
+シロップ ナッツ パイ パイ/baklava
 ビーフ カルパッチョ/beef_carpaccio
 ビーフ タルタル/beef_tartare
 ビート サラダ/beet_salad
-/beignets
+揚げ ドーナツ パウダーシュガー/beignets
 ビビンバ/bibimbap
 ブレッド プディング/bread_pudding
 ブリトー/breakfast_burrito
 ブルスケッタ/bruschetta
 シーザーサラダ/caesar_salad
-/cannoli
+ワッフル ワッフル クリーム/cannoli
 カプレーゼ サラダ/caprese_salad
 キャロット ケーキ/carrot_cake
-/ceviche
+魚介 マリネ/ceviche
 チーズケーキ/cheesecake
 チーズ プレート/cheese_plate
 チキン カレー/chicken_curry
-/chicken_quesadilla
+チキン トルティーヤ チーズ/chicken_quesadilla
 手羽先/chicken_wings
 チョコレートケーキ/chocolate_cake
 チョコレートムース/chocolate_mousse
@@ -54,7 +54,7 @@
 ハンバーガー/hamburger
 中華 スープ/hot_and_sour_soup
 ホットドッグ/hot_dog
-/huevos_rancheros
+トルティーヤ サルサ/huevos_rancheros
 フムス/hummus
 アイスクリーム/ice_cream
 ラザニア/lasagna
@@ -81,15 +81,15 @@
 ポーク バーガー/pulled_pork_sandwich
 ラーメン/ramen
 ラビオリ/ravioli
-/red_velvet_cake
-/risotto
-/samosa
-/sashimi
-/scallops
-/seaweed_salad
-/shrimp_and_grits
-/spaghetti_bolognese
-/spaghetti_carbonara
+食紅 ケーキ/red_velvet_cake
+リゾット/risotto
+サモサ/samosa
+刺し身/sashimi
+ホタテ/scallops
+海藻サラダ/seaweed_salad
+エビ リゾット/shrimp_and_grits
+ミートソース/spaghetti_bolognese
+カルボナーラ/spaghetti_carbonara
 はるまき/spring_rolls
 ステーキ/steak
 ストロベリー ケーキ/strawberry_shortcake
@@ -97,5 +97,5 @@
 タコス/tacos
 たこ焼き/takoyaki
 ティラミス/tiramisu
-/tuna_tartare
+マグロ タルタル/tuna_tartare
 ワッフル/waffles
