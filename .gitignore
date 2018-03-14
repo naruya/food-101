@@ -2,4 +2,4 @@ README.txt
 images/
 meta/
 weights/
-
+*.hdf5
