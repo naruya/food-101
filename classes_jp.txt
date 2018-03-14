@@ -86,7 +86,7 @@
 サモサ/samosa
 刺し身/sashimi
 ホタテ/scallops
-海藻サラダ/seaweed_salad
+海藻 サラダ/seaweed_salad
 エビ リゾット/shrimp_and_grits
 ミートソース/spaghetti_bolognese
 カルボナーラ/spaghetti_carbonara
