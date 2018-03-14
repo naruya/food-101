@@ -1,4 +1,7 @@
 README.txt
+
+.ipynb_checkpoints/
+
 images/
 meta/
 weights/
